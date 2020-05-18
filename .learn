@@ -1,5 +1,4 @@
 languages:
   - ruby
-  
-  puts "Hello World!"
+
   
